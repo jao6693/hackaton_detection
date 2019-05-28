@@ -1,0 +1,11 @@
+{
+	"urls": [
+		{
+			"name": "Detection des visages",
+			"url": "/ml-detect/api/v2alpha1/image/face-detection",
+			"headers": {
+				"APIKey": "mCfiGPMAXJVNXKgujL4BDX0X5lK9UtOB"
+			}
+		}
+	]
+}
